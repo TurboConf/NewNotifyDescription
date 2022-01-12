@@ -1,0 +1,133 @@
+{
+    "ru": {
+      "НачатьВызов": {
+        "parameters": "РезультатВызова, ПараметрыВызова"
+      },
+      "НачатьЗакрытие": {},
+      "НачатьЗапись1": {
+        "name": "НачатьЗапись",
+        "presentation": "НачатьЗапись (документ)",
+        "parameters": "Результат"
+      },
+      "НачатьЗапись2": {
+        "name": "НачатьЗапись",
+        "presentation": "НачатьЗапись (двоичные данные)"
+      },
+      "НачатьЗапускПриложения": {
+        "parameters": "КодВозврата"
+      },
+      "НачатьКопированиеФайла": {
+        "parameters": "СкопированныйФайл"
+      },
+      "НачатьПеремещениеФайла": {
+        "parameters": "ПеремещаемыйФайл"
+      },
+      "НачатьПодключениеВнешнейКомпоненты": {
+        "parameters": "Подключено"
+      },
+      "НачатьПоискФайлов": {
+        "parameters": "НайденныеФайлы"
+      },
+      "НачатьПолучение": {
+        "parameters": "Значение"
+      },
+      "ОткрытьФорму": {
+        "parameters": "Результат"
+      },
+      "ПоказатьВводДаты": {
+        "parameters": "Дата"
+      },
+      "ПоказатьВводЗначения": {
+        "parameters": "Значение"
+      },
+      "ПоказатьВводСтроки": {
+        "parameters": "Строка"
+      },
+      "ПоказатьВводЧисла": {
+        "parameters": "Число"
+      },
+      "ПоказатьВопрос": {
+        "parameters": "РезультатВопроса"
+      },
+      "ПоказатьВыборДействия": {
+        "parameters": "ВыполненноеДействие, ПараметрВыполненногоДействия"
+      },
+      "ПоказатьВыборИзМеню": {
+        "parameters": "ВыбранныйЭлемент"
+      },
+      "ПоказатьВыборИзСписка": {
+        "parameters": "ВыбранныйЭлемент"
+      },
+      "ПоказатьВыборЭлемента": {
+        "parameters": "ВыбранныйЭлемент"
+      },
+      "ПоказатьЗначение": {},
+      "ПоказатьОтметкуЭлементов": {
+        "parameters": "Список"
+      },
+      "ПоказатьПредупреждение": {}
+    },
+    "en": {
+      "BeginAttachingAddIn": {
+        "parameters": "Connected"
+      },
+      "BeginCalling": {
+        "parameters": "Result, Parameters"
+      },
+      "BeginClose": {},
+      "BeginCopyingFile": {
+        "parameters": "CopiedFile"
+      },
+      "BeginFindingFiles": {
+        "parameters": "FoundFiles"
+      },
+      "BeginGetting": {
+        "parameters": "Value"
+      },
+      "BeginMovingFile": {
+        "parameters": "MovedFile"
+      },
+      "BeginRunningApplication": {
+        "parameters": "ReturnCode"
+      },
+      "BeginWrite": {},
+      "BeginWriting": {
+        "parameters": "Result"
+      },
+      "OpenForm": {
+        "parameters": "Result"
+      },
+      "ShowActionChoice": {
+        "parameters": "Action, Parametr"
+      },
+      "ShowCheckItems": {
+        "parameters": "List"
+      },
+      "ShowChooseFromList": {
+        "parameters": "Item"
+      },
+      "ShowChooseFromMenu": {
+        "parameters": "Item"
+      },
+      "ShowChooseItem": {
+        "parameters": "Item"
+      },
+      "ShowInputDate": {
+        "parameters": "Date"
+      },
+      "ShowInputNumber": {
+        "parameters": "Number"
+      },
+      "ShowInputString": {
+        "parameters": "String"
+      },
+      "ShowInputValue": {
+        "parameters": "Value"
+      },
+      "ShowMessageBox": {},
+      "ShowQueryBox": {
+        "parameters": "Answer"
+      },
+      "ShowValue": {}
+    }
+}
