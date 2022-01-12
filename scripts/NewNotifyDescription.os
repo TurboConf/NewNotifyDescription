@@ -3,7 +3,7 @@
 //@script_description Скрипт генерирует создание нового описания оповещения и его обработчик для популярных асинхронных методов
 //@script_author dhurricane
 //@script_developer_url https://github.com/d-hurricane
-//@script_hotkey Control+Alt+N
+//@script_hotkey Control+Shift+N
 //@retain_clipboard 1
 //@enterprise_mode 0
 //@hide_actions 1
